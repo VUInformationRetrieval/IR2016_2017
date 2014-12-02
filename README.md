@@ -1,6 +1,6 @@
 IR2014_2015
 ===========
-Made up of 4 assignments with introductory code. Derived from exercised in [VU Collective Intelligence 2013](https://github.com/lfsimoes/VU/tree/master/2013__Collective_Intelligence)
+Made up of 4 assignments with introductory code and explanations in the form of [IPython Notebooks](http://ipython.org/notebook.html). Derived from exercises produced by Luís F. Simões for [VU Collective Intelligence 2013](https://github.com/lfsimoes/VU/tree/master/2013__Collective_Intelligence)
 
 * [
 Understanding the Pubmed Evolution Paper Dataset](http://nbviewer.ipython.org/github/VUInformationRetrieval/IR2014_2015/blob/master/inspecting_the_data.ipynb)
