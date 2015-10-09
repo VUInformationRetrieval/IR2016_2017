@@ -5,7 +5,7 @@ These are four assignments with introductory code and explanations in the form
 of [IPython Notebooks](http://ipython.org/notebook.html) by Paul Groth, derived
 from exercises produced by Luís F. Simões for [VU Collective Intelligence
 2013](https://github.com/lfsimoes/VU/tree/master/2013__Collective_Intelligence).
-Converted to latest Jupyter version by Tobias Kuhn (9 October 2015).
+Converted to latest Jupyter version and Python 3 by Tobias Kuhn (9 October 2015).
 
 * [Understanding the Pubmed Evolution Paper Dataset](inspecting_the_data.ipynb)
 * [Building a simple search index](building_a_simple_index.ipynb)
