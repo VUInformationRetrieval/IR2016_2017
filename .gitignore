@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
+*.bz2
 *~
 
 # Byte-compiled / optimized / DLL files
