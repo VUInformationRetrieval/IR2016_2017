@@ -7,8 +7,8 @@ from exercises produced by Luís F. Simões for [VU Collective Intelligence
 2013](https://github.com/lfsimoes/VU/tree/master/2013__Collective_Intelligence).
 Converted to latest Jupyter version and Python 3 by Tobias Kuhn (9 October 2015).
 
-* [Understanding the Pubmed Evolution Paper Dataset](inspecting_the_data.ipynb)
-* [Building a simple search index](building_a_simple_index.ipynb)
-* [Improving the Search Index](improving_the_search_index.ipynb)
-* [Integrating Link Analysis and Search](link_analysis.ipynb)
+* [Inspecting the Pubmed Evolution Paper Dataset](01_inspecting.ipynb)
+* [Building a simple search index](02_building.ipynb)
+* [Improving the Search Index](03_improving.ipynb)
+* [Link Analysis](04_analysis.ipynb)
 
