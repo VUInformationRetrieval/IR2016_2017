@@ -1,5 +1,5 @@
-IR2014_2015
-===========
+Code for Information Retrieval Course at VU Amsterdam 2015-2016
+===============================================================
 
 These are four assignments with introductory code and explanations in the form
 of [IPython Notebooks](http://ipython.org/notebook.html) by Paul Groth, derived
